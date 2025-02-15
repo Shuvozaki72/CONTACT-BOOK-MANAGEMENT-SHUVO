@@ -1,0 +1,3 @@
+name: Rakib, email: rakib@gmail.com, phone: 09272786278, address: Dhaka
+name: Foysal, email: foysal@gmail.com, phone: 029872682, address: Mohakhali
+name: Zahidul, email: zahid@gmail.com, phone: 092728762, address: Sylhet
